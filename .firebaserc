@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "live-templates-demo"
+  },
+  "targets": {
+    "live-templates-demo": {
+      "hosting": {
+        "west-region": [
+          "west-region"
+        ]
+      }
+    }
+  }
+}
